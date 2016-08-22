@@ -1,0 +1,16 @@
+{
+	"require-dev": {
+		"slim/slim": "~2.6",
+		"php-di/php-di": "^5.1.0",
+		"squizlabs/php_codesniffer": "2.*",
+		"phploc/phploc": "*"
+
+
+	},
+	"require-dev": {
+		"phpunit/phpunit": "4.7.*",
+        "phpmd/phpmd" : "@stable",
+		"phing/phing": "2.*"
+	}
+}
+
